@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: mncwbdv8v-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/mncwbdv8v-java-quarkus
